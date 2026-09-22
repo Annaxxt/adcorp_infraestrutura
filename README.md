@@ -42,18 +42,19 @@ Total aproximado: 150 colaboradores.
     │   └── vlans-acessos.xlsx
     │
     ├── 05-IoT/
-    │   ├── codigo.ino
+    │   ├── testes/
+    │   │   └── teste1.png
+    │   │   └── teste2.png
+    │   │   └── teste3.png
+    │   │   └── teste4.png
     │   ├── circuito.png
-    │   ├── testes.md
+    │   ├── codigo.ino
     │   └── link-tinkercad.txt
-    │
-    └── 06-Referencias/
-        └── fontes-consultadas.md
+
 
 ## Como consultar
 Recomenda-se iniciar pela pasta 01-Empresa/ para compreender a estrutura e as necessidades da AD Corp. 
 Em seguida, as pastas 02 a 05 apresentam as soluções desenvolvidas para cada uma das matérias.
-E ao final a pasta 06-Referencias/ contendo as fontes consultadas durante o projeto.
 
 ## Ferramentas utilizadas
 - Microsoft Word;
@@ -67,6 +68,5 @@ E ao final a pasta 06-Referencias/ contendo as fontes consultadas durante o proj
 
 ## Links técnicos
 
-Tinkercad: [link será adicionado após a conclusão do protótipo]
-
+Tinkercad: https://www.tinkercad.com/things/gq9lda4R3js/editel?sharecode=knM5eBDipIz_-3MEmeO_bvV-JAI6eOrhu9GhGzS6mcU
 
