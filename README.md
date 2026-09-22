@@ -36,6 +36,9 @@ Total aproximado: 150 colaboradores.
     │   ├── imagens/
     │   │   └── topologia.png
     │   │
+    │   ├── testes/
+    │   │   └── testes_validações.pdf
+    │   │
     │   ├── inventario-dimensionamento.xlsx
     │   ├── orcamento-redes.xlsx
     │   ├── plano-ipv4.xlsx
@@ -48,7 +51,7 @@ Total aproximado: 150 colaboradores.
     │   │   └── teste3.png
     │   │   └── teste4.png
     │   ├── circuito.png
-    │   ├── codigo.ino
+    │   ├── codigo_ino.md
     │   └── link-tinkercad.txt
 
 
